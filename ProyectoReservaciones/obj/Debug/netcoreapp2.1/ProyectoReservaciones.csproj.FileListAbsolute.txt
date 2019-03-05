@@ -1,0 +1,120 @@
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\bin\Debug\netcoreapp2.1\ProyectoReservaciones.deps.json
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\bin\Debug\netcoreapp2.1\ProyectoReservaciones.runtimeconfig.json
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\bin\Debug\netcoreapp2.1\ProyectoReservaciones.runtimeconfig.dev.json
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\bin\Debug\netcoreapp2.1\ProyectoReservaciones.dll
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\bin\Debug\netcoreapp2.1\ProyectoReservaciones.pdb
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\bin\Debug\netcoreapp2.1\ProyectoReservaciones.Views.dll
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\bin\Debug\netcoreapp2.1\ProyectoReservaciones.Views.pdb
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.csproj.CoreCompileInputs.cache
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.RazorAssemblyInfo.cache
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.RazorAssemblyInfo.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.AssemblyInfoInputs.cache
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.AssemblyInfo.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.TagHelpers.input.cache
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.TagHelpers.output.cache
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.RazorCoreGenerate.cache
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.RazorTargetAssemblyInfo.cache
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.RazorTargetAssemblyInfo.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.Views.pdb
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.dll
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.pdb
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.csproj.CopyComplete
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Citas\Create.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Citas\Delete.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Citas\Details.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Citas\Edit.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Citas\Index.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Medicos\Create.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Medicos\Delete.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Medicos\Details.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Medicos\Edit.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Medicos\Index.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Pacientes\Create.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Pacientes\Delete.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Pacientes\Details.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Pacientes\Edit.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Pacientes\Index.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\Create.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\Delete.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\Details.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\Edit.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\Index.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\danje\Desktop\Utility\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.csprojAssemblyReference.cache
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\bin\Debug\netcoreapp2.1\ProyectoReservaciones.deps.json
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\bin\Debug\netcoreapp2.1\ProyectoReservaciones.runtimeconfig.json
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\bin\Debug\netcoreapp2.1\ProyectoReservaciones.runtimeconfig.dev.json
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\bin\Debug\netcoreapp2.1\ProyectoReservaciones.dll
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\bin\Debug\netcoreapp2.1\ProyectoReservaciones.pdb
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\bin\Debug\netcoreapp2.1\ProyectoReservaciones.Views.dll
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\bin\Debug\netcoreapp2.1\ProyectoReservaciones.Views.pdb
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.csprojAssemblyReference.cache
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.csproj.CoreCompileInputs.cache
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.RazorAssemblyInfo.cache
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.RazorAssemblyInfo.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.AssemblyInfoInputs.cache
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.AssemblyInfo.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.TagHelpers.input.cache
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.TagHelpers.output.cache
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.RazorCoreGenerate.cache
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Citas\Create.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Citas\Delete.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Citas\Details.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Citas\Edit.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Citas\Index.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Medicos\Create.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Medicos\Delete.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Medicos\Details.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Medicos\Edit.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Medicos\Index.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Pacientes\Create.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Pacientes\Delete.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Pacientes\Details.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Pacientes\Edit.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Pacientes\Index.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\Create.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\Delete.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\Details.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\Edit.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\Index.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.RazorTargetAssemblyInfo.cache
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.RazorTargetAssemblyInfo.cs
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.Views.pdb
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.dll
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.pdb
+C:\Utilities\Danyer\Para Drive\UNAPEC\ProyectoReservaciones\ProyectoReservaciones\obj\Debug\netcoreapp2.1\ProyectoReservaciones.csproj.CopyComplete

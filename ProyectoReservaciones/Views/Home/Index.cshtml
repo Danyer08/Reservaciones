@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="6000">
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner" role="listbox">
+        <div class="item active">
+            <img src="~/images/medicina1.jpg" alt="ASP.NET" class="img-responsive" />
+            <div class="carousel-caption" role="option">
+                <p>
+                    Los medicamentos no siempre son necesarios. La creencia en la recuperación siempre lo es.
+                </p>
+            </div>
+        </div>
+        <div class="item">
+            <img src="~/images/medicina2.jpg" alt="Visual Studio" class="img-responsive" />
+            <div class="carousel-caption" role="option">
+                <p>
+                    El buen médico trata la enfermedad; el gran médico trata al paciente que tiene la enfermedad.
+                </p>
+            </div>
+        </div>
+        <div class="item">
+            <img src="~/images/medicina3.jpg" alt="Microsoft Azure" class="img-responsive" />
+            <div class="carousel-caption" role="option">
+                <p>
+                    La medicina es una ciencia de la incertidumbre y un arte de la probabilidad.
+                </p>
+            </div>
+        </div>
+    </div>
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Anterior</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Siguiente</span>
+    </a>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <h2 class="text-center"><a class="btn btn-info btn-lg" asp-area="" asp-controller="Citas" asp-action="Index">Citas</a></h2>
+    </div>
+    <div class="col-md-3">
+        <h2 class="text-center"><a class="btn btn-info btn-lg"  asp-area="" asp-controller="Medicos" asp-action="Index">Medicos</a></h2>
+    </div>
+    <div class="col-md-3">
+        <h2 class="text-center"><a class="btn btn-info btn-lg"  asp-area="" asp-controller="Pacientes" asp-action="Index">Pacientes</a></h2>
+    </div>
+    <div class="col-md-3">
+        <h2 class="text-center"><a class="btn btn-info btn-lg"  asp-area="" asp-controller="Usuarios" asp-action="Index">Usuarios</a></h2>
+    </div>
+</div>
